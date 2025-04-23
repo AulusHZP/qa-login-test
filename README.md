@@ -1,4 +1,4 @@
-# 🚀 Automação de Testes de Login com Playwright
+# 🤓 Automação de Testes de Login com Playwright
 ![Playwright](https://img.shields.io/badge/Playwright-2E8B57?style=for-the-badge&logo=playwright&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
