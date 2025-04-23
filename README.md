@@ -81,7 +81,7 @@ qa-login-test/
 
 ## 📬 Contato
 
-Para dúvidas ou sugestões, entre em contato com E-mail:[aulushzp@gmail.com](mailto:aulushzp@gmail.com) ou LinkedIn: [linkedin.com/in/aulushzp](https://www.linkedin.com/in/aulushzp)
+Para dúvidas ou sugestões, entre em contato com E-mail:[aulushzp@gmail.com](mailto:aulushzp@gmail.com) ou no LinkedIn: [linkedin.com/in/aulushzp](https://www.linkedin.com/in/aulushzp)
 
 ## 📄 Licença
 
