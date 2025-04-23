@@ -1,0 +1,15 @@
+{
+    "name": "qa-login-test",
+    "version": "1.0.0",
+    "description": "Automação de testes de login para Automation Practice",
+    "scripts": {
+      "test": "playwright test",
+      "test:headed": "playwright test --headed",
+      "test:debug": "playwright test --debug"
+    },
+    "author": "aulushzp",
+    "license": "MIT",
+    "devDependencies": {
+      "@playwright/test": "^1.38.0"
+    }
+  }
